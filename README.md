@@ -4,7 +4,8 @@ I began my programming journey about 10 years ago now, but have never published 
 
 Included is a small, old joke just for fun.  Well, not super old, but it is as old as Vine.
 
-[Software Demo Video *** NOT DONE YET](http://youtube.link.goes.here)
+Here is a link to a video demo of the script running:
+[Hello World Program Demo](https://youtu.be/57c3SKrZbAM)
 
 # Development Environment
 
